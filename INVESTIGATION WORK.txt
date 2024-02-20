@@ -1,0 +1,64 @@
+﻿Name: Gaston Gutierrez Condori
+
+
+INVESTIGATION WORK
+
+
+Alonzo Church
+
+
+He was a great American mathematician, -among his most notable and important feats was the development of the lambda conversion calculus, which allows to perform logical operations with generalized variables.
+One of the advantages of using it in programming would be that the lambda calculus creates a solid theoretical basis for understanding and working with higher order functions.
+
+
+Jhon McCarthy
+
+
+He was the main person to coin the term "artificial intelligence" and established the fundamental objectives of this field. McCarthy was also a great motivator and founder of artificial intelligence laboratories at several universities and developed the Lisp programming language, which was essential for the advancement of artificial intelligence and the creation of the concept of time-sharing, a precursor idea of the Internet. 
+
+
+
+
+
+
+Peter Landin
+
+
+He was a British computer scientist. Landin was one of the principals in the use of the lambda calculus to model a programming language, an idea that is essential to the development of functional and denotational semantic programming, used today in software used on computers and the Internet.
+
+
+John Warner Backus
+
+
+John Warner Backus was a mathematician and programmer. He was hired as a programmer at IBM, where he developed FORTRAN, the first high-level programming language, in 1957. In addition, in 1959, he created the standardized notation known as the Backus-Naur Form (BNF), which describes the syntax of high-level languages. He also designed a functional programming language for scientific applications called FP.
+
+
+Haskell curry
+
+
+He developed the so-called combinatorial logic. Oriented towards metalogic and philosophy of mathematics, he defined the concepts of formal systems and their applicability. His works include Theory of Formal Deduction (1950), Outline of a Formalist Philosophy of Mathematics (1951), Lessons in Algebraic Logic (1952), Combinatorial Logic (1958, with Robert Feys) and Fundamentals of Mathematical Logic (1963), a widely used graduate textbook. 
+
+
+
+
+
+
+
+
+
+
+BIBLIOGRAPHY
+
+
+
+
+https://www.biografiasyvidas.com/biografia/c/church_alonzo.htm#:~:text=De%20sus%20trabajos%20es%20notable,formulaci%C3%B3n%20te%C3%B3rica%20de%20la%20inform%C3%A1tica.
+
+
+https://www.bbvaopenmind.com/tecnologia/inteligencia-artificial/el-verdadero-padre-de-la-inteligencia-artificial/
+
+
+https://www.biografiasyvidas.com/biografia/b/backus.htm
+
+
+https://www.biografiasyvidas.com/biografia/c/curry.htm
